@@ -2,13 +2,15 @@ Na-Accidento (Automated home security system)
 
 This cheap and effective system I would like to deliver a power package of low power automation system that
 monitors and take appropriate actions for following problems:
+
 • Gas leakage
+
 • Fire accidents
+
 • Burglary and security
 
-It detects whenever ther is any LPG gas leakge or flame detection in the house it will first alarm the people in the house and then send
-an sms to the required personnels (like parents,ambulance etc)  about the situation and take respective measures like water sprinkling, activating 
-exhaust fan to eliminate the threat
+It detects whenever there is any LPG gas leakge or flame detection in the house it will first alarm the people in the house and then send an sms to the required personnels (like parents,ambulance etc)  about the situation and take respective measures like water sprinkling, activating exhaust fan to eliminate the threat
+
 It also keeps house under close watch and report as soon as it detects someone who is felt as threat.
 
 
