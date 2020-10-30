@@ -1,6 +1,6 @@
 Na-Accidento (Automated home security system)
 
-This cheap and effective system I would like to deliver a power package of low power automation system that
+In this cheap and effective system, I would like to deliver a power package of low power automation system that
 monitors and take appropriate actions for following problems:
 
 • Gas leakage
