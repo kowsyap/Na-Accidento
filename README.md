@@ -25,3 +25,5 @@ The following connections are:
   gas sensor   : A5   
   RTC sensor : D5,D6,D7  
   GSM module : Tx,Rx
+  
+  Team: Kowsyap Pranaay, Ajay
